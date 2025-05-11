@@ -1,2 +1,4 @@
 # Bright-Coffee-Shop
 Data Analysis for Bright Coffee Shop
+
+The aim of this analysis performed for the presentation has two components, one insights and the second which focuses on recommendations. The graphs aim to give a visual representation to the numbers in the dataset alongside short descritions to give meaning to the graphs. The recommendations provides pointers or initiatives that can be implemented by Bright Coffee Shop for the purpose of increasing revenue and product performance. Excel, Snowflake, Powerpoint, Canva were tools used for the creation of the entire presentation. Bar graph, line graph, and pie chart are the visualisation used in the presentation as they provide the simplest and concise visualisation compared to other graphs. Miro is also a key tool, as it is used as a road map on how the presentation was approached.
